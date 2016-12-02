@@ -1,0 +1,8 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "spder",
+  "main": "spider.js",
+  "dependencies": {
+  }
+}
