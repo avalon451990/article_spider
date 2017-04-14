@@ -4,5 +4,6 @@
   "description": "spder",
   "main": "spider.js",
   "dependencies": {
+  	"mongodb"
   }
 }
